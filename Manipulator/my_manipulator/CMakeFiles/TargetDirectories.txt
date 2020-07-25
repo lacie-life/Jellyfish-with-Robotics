@@ -1,0 +1,4 @@
+/home/pi/Desktop/my_manipulator/CMakeFiles/edit_cache.dir
+/home/pi/Desktop/my_manipulator/CMakeFiles/rebuild_cache.dir
+/home/pi/Desktop/my_manipulator/CMakeFiles/my_manipulator.dir
+/home/pi/Desktop/my_manipulator/CMakeFiles/my_manipualtor.dir

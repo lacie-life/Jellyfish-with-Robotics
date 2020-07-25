@@ -1,0 +1,4 @@
+/home/lacie/CLionProjects/Manipulator_ver1/build/CMakeFiles/edit_cache.dir
+/home/lacie/CLionProjects/Manipulator_ver1/build/CMakeFiles/rebuild_cache.dir
+/home/lacie/CLionProjects/Manipulator_ver1/build/CMakeFiles/manipulator.dir
+/home/lacie/CLionProjects/Manipulator_ver1/build/CMakeFiles/manipulator_libs.dir

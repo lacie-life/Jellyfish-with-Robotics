@@ -1,0 +1,10 @@
+//
+// Created by lacie on 09/09/2019.
+//
+
+#ifndef MACHINEHAND_KINEMATICS_H
+#define MACHINEHAND_KINEMATICS_H
+
+
+
+#endif //MACHINEHAND_KINEMATICS_H

@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/manipulator.dir/main.cpp.o  -o manipulator -rdynamic ../include/dynamixel_sdk ../include/manipulator_base ../include/my_manipulator 

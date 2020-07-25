@@ -1,0 +1,6 @@
+string cmd
+---
+int32 mecanum1
+int32 mecanum2
+int32 mecanum3
+int32 mecanum4

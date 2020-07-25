@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/dynamixel.h
+fcntl.h
+-
+getopt.h
+-
+termios.h
+-
+dynamixel_sdk/dynamixel_sdk.h
+-
+
+/home/lacie/CLionProjects/MachineHand/src/main.cpp
+iostream
+-
+dynamixel.h
+/home/lacie/CLionProjects/MachineHand/src/dynamixel.h
+

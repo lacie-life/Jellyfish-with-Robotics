@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Manipulator_ver1"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\usr\;CMake Files\..\..\..\..\usr\lib\;CMake Files\..\..\..\..\usr\lib\cmake\;CMake Files\..\..\..\..\usr\lib\cmake\eigen3\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/lacie/CLionProjects/Manipulator_ver1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/lacie/CLionProjects/Manipulator_ver1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/lacie/CLionProjects/Manipulator_ver1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/lacie/CLionProjects/Manipulator_ver1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/lacie/CLionProjects/Manipulator_ver1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/lacie/CLionProjects/Manipulator_ver1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/lacie/CLionProjects/Manipulator_ver1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/lacie/CLionProjects/Manipulator_ver1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/lacie/CLionProjects/Manipulator_ver1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/lacie/CLionProjects/Manipulator_ver1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="manipulator">
+				<Option output="/home/lacie/CLionProjects/Manipulator_ver1/cmake-build-debug/manipulator" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/lacie/CLionProjects/Manipulator_ver1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/eigen3"/>
+					<Add directory="/home/lacie/CLionProjects/Manipulator_ver1/include/dynamixel_sdk"/>
+					<Add directory="/home/lacie/CLionProjects/Manipulator_ver1/include/manipulator_base"/>
+					<Add directory="/home/lacie/CLionProjects/Manipulator_ver1/include/my_manipulator"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/lacie/CLionProjects/Manipulator_ver1/cmake-build-debug/Makefile&quot;  VERBOSE=1 manipulator"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/lacie/CLionProjects/Manipulator_ver1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/lacie/CLionProjects/Manipulator_ver1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/lacie/CLionProjects/Manipulator_ver1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="manipulator/fast">
+				<Option output="/home/lacie/CLionProjects/Manipulator_ver1/cmake-build-debug/manipulator" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/lacie/CLionProjects/Manipulator_ver1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/eigen3"/>
+					<Add directory="/home/lacie/CLionProjects/Manipulator_ver1/include/dynamixel_sdk"/>
+					<Add directory="/home/lacie/CLionProjects/Manipulator_ver1/include/manipulator_base"/>
+					<Add directory="/home/lacie/CLionProjects/Manipulator_ver1/include/my_manipulator"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/lacie/CLionProjects/Manipulator_ver1/cmake-build-debug/Makefile&quot;  VERBOSE=1 manipulator/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/lacie/CLionProjects/Manipulator_ver1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/lacie/CLionProjects/Manipulator_ver1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/lacie/CLionProjects/Manipulator_ver1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/lacie/CLionProjects/Manipulator_ver1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/lacie/CLionProjects/Manipulator_ver1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/lacie/CLionProjects/Manipulator_ver1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/lacie/CLionProjects/Manipulator_ver1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/lacie/CLionProjects/Manipulator_ver1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/lacie/CLionProjects/Manipulator_ver1/src/dynamixel_sdk/dynamixel.h">
+			<Option target="manipulator"/>
+		</Unit>
+		<Unit filename="/home/lacie/CLionProjects/Manipulator_ver1/src/dynamixel_sdk/group_bulk_read.cpp">
+			<Option target="manipulator"/>
+		</Unit>
+		<Unit filename="/home/lacie/CLionProjects/Manipulator_ver1/src/dynamixel_sdk/group_bulk_write.cpp">
+			<Option target="manipulator"/>
+		</Unit>
+		<Unit filename="/home/lacie/CLionProjects/Manipulator_ver1/src/dynamixel_sdk/group_sync_write.cpp">
+			<Option target="manipulator"/>
+		</Unit>
+		<Unit filename="/home/lacie/CLionProjects/Manipulator_ver1/src/dynamixel_sdk/packet_handler.cpp">
+			<Option target="manipulator"/>
+		</Unit>
+		<Unit filename="/home/lacie/CLionProjects/Manipulator_ver1/src/dynamixel_sdk/port_handler.cpp">
+			<Option target="manipulator"/>
+		</Unit>
+		<Unit filename="/home/lacie/CLionProjects/Manipulator_ver1/src/dynamixel_sdk/port_handler_arduino.cpp">
+			<Option target="manipulator"/>
+		</Unit>
+		<Unit filename="/home/lacie/CLionProjects/Manipulator_ver1/src/dynamixel_sdk/port_handler_linux.cpp">
+			<Option target="manipulator"/>
+		</Unit>
+		<Unit filename="/home/lacie/CLionProjects/Manipulator_ver1/src/dynamixel_sdk/port_handler_mac.cpp">
+			<Option target="manipulator"/>
+		</Unit>
+		<Unit filename="/home/lacie/CLionProjects/Manipulator_ver1/src/dynamixel_sdk/port_handler_windows.cpp">
+			<Option target="manipulator"/>
+		</Unit>
+		<Unit filename="/home/lacie/CLionProjects/Manipulator_ver1/src/dynamixel_sdk/protocol1_packet_handler.cpp">
+			<Option target="manipulator"/>
+		</Unit>
+		<Unit filename="/home/lacie/CLionProjects/Manipulator_ver1/src/dynamixel_sdk/protocol2_packet_handler.cpp">
+			<Option target="manipulator"/>
+		</Unit>
+		<Unit filename="/home/lacie/CLionProjects/Manipulator_ver1/src/main.cpp">
+			<Option target="manipulator"/>
+		</Unit>
+		<Unit filename="/home/lacie/CLionProjects/Manipulator_ver1/src/manipulator_base/manipulator.cpp">
+			<Option target="manipulator"/>
+		</Unit>
+		<Unit filename="/home/lacie/CLionProjects/Manipulator_ver1/src/manipulator_base/manipulator_common.cpp">
+			<Option target="manipulator"/>
+		</Unit>
+		<Unit filename="/home/lacie/CLionProjects/Manipulator_ver1/src/manipulator_base/manipulator_log.cpp">
+			<Option target="manipulator"/>
+		</Unit>
+		<Unit filename="/home/lacie/CLionProjects/Manipulator_ver1/src/manipulator_base/manipulator_manager.cpp">
+			<Option target="manipulator"/>
+		</Unit>
+		<Unit filename="/home/lacie/CLionProjects/Manipulator_ver1/src/manipulator_base/manipulator_math.cpp">
+			<Option target="manipulator"/>
+		</Unit>
+		<Unit filename="/home/lacie/CLionProjects/Manipulator_ver1/src/manipulator_base/manipulator_trajectory_generator.cpp">
+			<Option target="manipulator"/>
+		</Unit>
+		<Unit filename="/home/lacie/CLionProjects/Manipulator_ver1/src/my_manipulator/custom_trajectory.cpp">
+			<Option target="manipulator"/>
+		</Unit>
+		<Unit filename="/home/lacie/CLionProjects/Manipulator_ver1/src/my_manipulator/dynamixel.cpp">
+			<Option target="manipulator"/>
+		</Unit>
+		<Unit filename="/home/lacie/CLionProjects/Manipulator_ver1/src/my_manipulator/kinematics.cpp">
+			<Option target="manipulator"/>
+		</Unit>
+		<Unit filename="/home/lacie/CLionProjects/Manipulator_ver1/src/my_manipulator/my_manipulator.cpp">
+			<Option target="manipulator"/>
+		</Unit>
+		<Unit filename="/home/lacie/CLionProjects/Manipulator_ver1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/lacie/CLionProjects/Manipulator_ver1/../../../../usr/lib/cmake/eigen3/Eigen3Config.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\cmake\eigen3\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

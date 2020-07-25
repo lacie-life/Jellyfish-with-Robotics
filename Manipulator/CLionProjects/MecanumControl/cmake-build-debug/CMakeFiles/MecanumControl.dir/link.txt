@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/MecanumControl.dir/main.cpp.o  -o MecanumControl 

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lacie/CLionProjects/Kinematic/main.cpp
+iostream
+-
+vector
+-
+eigen3/Eigen/Eigen
+-
+eigen3/Eigen/LU
+-
+math.h
+-
+

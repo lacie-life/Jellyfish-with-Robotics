@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/MachineHand.dir/src/main.cpp.o CMakeFiles/MachineHand.dir/src/kinematics.cpp.o CMakeFiles/MachineHand.dir/src/dynamixel.cpp.o CMakeFiles/MachineHand.dir/src/machine_math.cpp.o CMakeFiles/MachineHand.dir/src/common.cpp.o  -o MachineHand "~/Project/Lib/Driver/DynamixelSDK/c++/build/linux64" 
