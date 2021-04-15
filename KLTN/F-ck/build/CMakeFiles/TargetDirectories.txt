@@ -1,0 +1,4 @@
+/home/up/Git/ArUco_Detection/build/CMakeFiles/rebuild_cache.dir
+/home/up/Git/ArUco_Detection/build/CMakeFiles/edit_cache.dir
+/home/up/Git/ArUco_Detection/build/CMakeFiles/ArUcoDetection.dir
+/home/up/Git/ArUco_Detection/build/CMakeFiles/MarkerDetection.dir

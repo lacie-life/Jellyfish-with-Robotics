@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lacie/Dev/transfromCoordinate/main.cpp
+iostream
+-
+eigen3/Eigen/Eigen
+-
+math.h
+-
+

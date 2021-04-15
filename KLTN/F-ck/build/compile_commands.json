@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/up/Git/ArUco_Detection/build",
+  "command": "/usr/bin/g++-7   -I/usr/include/eigen3 -isystem /usr/local/include -isystem /usr/local/include/opencv  -g   -std=gnu++11 -o CMakeFiles/ArUcoDetection.dir/arucoDetection.cpp.o -c /home/up/Git/ArUco_Detection/arucoDetection.cpp",
+  "file": "/home/up/Git/ArUco_Detection/arucoDetection.cpp"
+},
+{
+  "directory": "/home/up/Git/ArUco_Detection/build",
+  "command": "/usr/bin/g++-7   -I/usr/include/eigen3 -isystem /usr/local/include -isystem /usr/local/include/opencv  -g   -std=gnu++11 -o CMakeFiles/MarkerDetection.dir/fakeDetection.cpp.o -c /home/up/Git/ArUco_Detection/fakeDetection.cpp",
+  "file": "/home/up/Git/ArUco_Detection/fakeDetection.cpp"
+}
+]

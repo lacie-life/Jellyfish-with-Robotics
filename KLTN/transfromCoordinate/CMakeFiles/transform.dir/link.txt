@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/transform.dir/main.cpp.o  -o transform 

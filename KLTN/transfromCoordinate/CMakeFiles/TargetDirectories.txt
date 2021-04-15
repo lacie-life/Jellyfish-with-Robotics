@@ -1,0 +1,3 @@
+/home/lacie/Dev/transfromCoordinate/CMakeFiles/rebuild_cache.dir
+/home/lacie/Dev/transfromCoordinate/CMakeFiles/transform.dir
+/home/lacie/Dev/transfromCoordinate/CMakeFiles/edit_cache.dir
